@@ -6,7 +6,7 @@
 
 
 ## 主要功能
-- 支持 Windows 7 以及更新操作系统的 Windows 的电脑。
+- 支持 Windows 7 以及更新操作系统的 Windows 的电脑。 （要求电脑安装 .Net Framework 4.5 Runtime）
 - 支持右下方图标常驻。支持 Balloon Tip/操作中心 显示登录状态。
 - 与学校登录认证相同的结果反馈。
 - 支持记住密码（Windows 版使用凭据管理器保存密码）。
